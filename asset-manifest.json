@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-random-user-app/static/css/main.d0097935.css",
+    "main.js": "/react-random-user-app/static/js/main.38bf3417.js",
+    "static/media/email.svg": "/react-random-user-app/static/media/email.e1f03bb9d1dbef90d259181ea9c9aef7.svg",
+    "static/media/location.svg": "/react-random-user-app/static/media/location.0b7d98ab7b9d5092303dd3951b4649a7.svg",
+    "static/media/phone.svg": "/react-random-user-app/static/media/phone.d017e1ae418c694ba9148c0a9001609c.svg",
+    "index.html": "/react-random-user-app/index.html",
+    "main.d0097935.css.map": "/react-random-user-app/static/css/main.d0097935.css.map",
+    "main.38bf3417.js.map": "/react-random-user-app/static/js/main.38bf3417.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0097935.css",
+    "static/js/main.38bf3417.js"
+  ]
+}
